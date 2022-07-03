@@ -4,4 +4,4 @@
 
 * Guidance * This is the first game genre I've ever tried. Therefore, the production period may be long and there may be no results for several weeks. However, it is a game that is continuously being developed.
 
-*Anleitung* Dieses Spiel ist das erste Spielgenre, das ich ausprobiert habe. Daher kann die Produktionszeit lang sein und es können mehrere Wochen lang keine Ergebnisse vorliegen. Es ist jedoch ein Spiel, das ständig weiterentwickelt wird.
+* Anleitung * Dieses Spiel ist das erste Spielgenre, das ich ausprobiert habe. Daher kann die Produktionszeit lang sein und es können mehrere Wochen lang keine Ergebnisse vorliegen. Es ist jedoch ein Spiel, das ständig weiterentwickelt wird.
